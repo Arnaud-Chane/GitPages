@@ -45,3 +45,7 @@ body {
 .nav-link-wrapper a:hover{
     color: black;
 }
+
+.brand {
+    text-transform: uppercase;
+}
